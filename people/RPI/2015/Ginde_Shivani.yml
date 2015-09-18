@@ -1,0 +1,19 @@
+course: "MGMT6963"
+year: "2015"
+semester: "Fall"
+
+# Role should either be Instructor or Student or TA
+role: "Student" 
+name: "Shivani"
+email: "wagles@rpi.edu"
+description: "Independent and professional"
+hobbies: "Cooking, reading, watching shows." 
+picture: "/img/Shivani_pic.jpg"
+github_username:  "shivani-ginde"
+twitter_username: 
+linkedin_username: "Shivani_ginde"
+website: "blank"
+
+#Additional student info
+desiredJob: "Business Analyst"
+program: "BSAN"
